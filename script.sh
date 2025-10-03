@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Welcome to the world of IT"
+echo "Welcome to the world of IT & Cloud"
 
 echo "Today's date is $(date)"
 
