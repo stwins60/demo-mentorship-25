@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "Today's date is $(date)"
 
 echo "What is your name"
 read name
