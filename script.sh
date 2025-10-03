@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "Welcome to the world of IT"
+
 echo "Today's date is $(date)"
 
 echo "What is your name"
