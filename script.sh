@@ -1,10 +1,10 @@
 #!/bin/bash
 
-echo "Welcome to the world of IT"
+echo "Welcome to the world of IT & Cloud"
 
 echo "Today's date is $(date)"
 
-echo "What is your name: "
+echo "What is your name?"
 read name
 
 echo "My name is $name"
